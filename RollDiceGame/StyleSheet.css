@@ -1,0 +1,129 @@
+﻿
+body {
+    background-image: url("FallingDice.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 80px;           
+}
+
+.allTextBoxes
+{
+    max-width: 80%;
+}
+
+#jumbo1 {
+    color: #ad9613;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 125%;    
+    background-color : rgba(9, 81, 17, 0.75);    
+    padding-top: 50px;
+    border-style: solid;
+    text-align: center; 
+}
+
+#jumbo2 {
+    background-color: rgba(9, 81, 17, 0.75);
+    color: #ad9613;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 125%;   
+    border-style: solid;
+    text-align: left;      
+}
+
+#jumbo3 {
+    background-color: rgba(9, 81, 17, 0.75);
+    color: #ad9613;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 125%;   
+    border-style: solid;
+    text-align: left;
+    padding-bottom: 59.5px;      
+}
+
+#CreditValue {
+    color: black;
+    text-align: center;
+}
+
+#RollsLeft {
+    color: black;
+    text-align: center;
+}
+
+.calcbtn {
+    color: black;
+    font-weight: bold;
+} 
+
+.calcbtn:hover{
+    box-shadow:rgba(255, 255, 255, .25) 2px 2px 2px;
+}
+
+.dicebtn {
+    color: black;
+    font-weight: bold;
+}
+
+.dicebtn:hover{
+    box-shadow:rgba(255, 255, 255, .25) 2px 2px 2px;
+}
+
+.restartbtn {
+    color: black;
+    font-weight: bold;
+}
+
+.restartbtn:hover{
+    box-shadow:rgba(255, 255, 255, .25) 2px 2px 2px;
+}
+
+#TotalCredit {
+    padding-right: 27px;
+}
+
+#NoOfDice {
+    padding-right: 58px;
+}
+
+#NoOfDiceInput{
+    color:black;    
+}
+
+#ToBeat {
+    padding-right: 58px;
+}
+
+#ToBeatInput{
+    color:black;
+}
+
+#Wager {
+    padding-right: 50px;
+}
+
+#WagerInput{
+    color:black;
+}
+
+#DiceResult{
+    color: #ad9613;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 200%;
+
+}
+
+#Result{
+    color: #ad9613;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+#disclaimer{
+    font-size: 10px;
+    color: white;
+}
